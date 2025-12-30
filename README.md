@@ -4,7 +4,7 @@ A creative scrolling website built with **HTML, CSS, and JavaScript** using **GS
 This project showcases smooth animations, horizontal scrolling, and dynamic image galleries.
 
 ## Demo
-You can view the live demo [here](https://kianathekad.github.io/kove-brand/).
+You can view the live demo [here](https://drive.google.com/file/d/1Julyvy4aYymR9YztfprBaazFcqFqU2N5/view?usp=sharing).
 
 ## Features
 - Horizontal scrolling animation with GSAP Timeline.  
